@@ -1,2 +1,1 @@
-This repo contains the script for this tutorial: 
-https://inzaniak.github.io/pybistuffblog/posts/2018/August/nltk-classify-words-language.html
+This repo contains the script for the tutorial on medium
