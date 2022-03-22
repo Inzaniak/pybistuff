@@ -1,0 +1,23 @@
+{
+  "Name": "Jason",
+  "Age": 30,
+  "Occupation": {
+    "Job": "Programmer",
+    "Company": "Google"
+  },
+  "Location": "USA",
+  "Address": [
+    {
+      "Street": "123 Main St",
+      "City": "New York",
+      "State": "NY",
+      "PostalCode": "10001"
+    },
+    {
+      "Street": "456 1st Ave",
+      "City": "New York",
+      "State": "NY",
+      "PostalCode": "10002"
+    }
+  ]
+}
