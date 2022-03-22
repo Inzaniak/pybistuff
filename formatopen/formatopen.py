@@ -18,10 +18,16 @@ print(json_data['Name'])
 print(json_data['Address'][0]['City'])
 # Access to sub-dict
 print(json_data['Occupation']['Job'])
+# Get Method
+print(json_data.get('Name'))
+print(json_data.get('Height'))
+print(json_data.get('Height',"Not Found"))
+
 
 ## String Loading
 json_data = json.loads('{"Name": "John", "Occupation": "Programmer"}')
 print(json_data['Name'])
+
 
 
 # CSV #############################################
