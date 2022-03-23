@@ -1,0 +1,5 @@
+SeleniumForm/geckodriver.log
+*.log
+.ts/tsm.json
+Webscraping Start to End/cnet_articles.db
+pbixExtractor/Sales & Returns Sample v201912.pbix
